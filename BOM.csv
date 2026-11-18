@@ -1,0 +1,9 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Index,LCSC#,MPN,Package,RoHS,MOQ,Multiple
+100nF ±10% 50V Ceramic Capacitor X7R 0603,Part,100,0.0071,0.71,https://www.lcsc.com/product-detail/C1591.html,Samsung Electro-Mechanics,Grant,,1,C1591,CL10B104KB8NNNC,0603,yes,100,100
+"Red, Green, Blue 5mm x 5mm square LED SMD5050-4P LED Indication - Discrete",Part,50,0.0686,3.43,https://www.lcsc.com/product-detail/C52917433.html,Worldsemi,Grant,,2,C52917433,WS2812B-V6,SMD5050-4P,yes,5,5
+"Pin Header 4 Position 2.54mm Pitch Single Row Through Hole, Right Angle -40℃~+105℃",Part,20,0.0362,0.72,https://www.lcsc.com/product-detail/C32713263.html,hanxia,Grant,,3,C32713263,HX PZ2.54-1x4P WZ,"Through Hole,Right Angle,P=2.54mm",yes,20,20
+pcb,PCB,5,,2.00,https://jlcpcb.com/,,Grant,,,,,,,,
+pcba,PCB,5,,52.74,https://jlcpcb.com/,,Grant,,,,,,,,
+shipping,Shipping,1,13.55,13.55,https://jlcpcb.com/,,Grant,,,,,,,,
+tax,Tax or fee,1,13.24,13.24,https://jlcpcb.com/,,Grant,,,,,,,,
+Total,,,,86.39,,,,,,,,,,,
