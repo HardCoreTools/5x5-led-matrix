@@ -20,13 +20,13 @@ A DIY 5x5 RGB LED matrix: a small custom PCB with 25 individually addressable WS
 
 | Name          | Description                                                                   | Price  | Shipping+tariff |
 | ------------- | ----------------------------------------------------------------------------- | ------ | -------- |
-| Componenets+Assembly   | Components from LCSC. Detailed breakdown [here](/BOM_5x5.xlsx)       | $52.74 |   $13.55 |
+| Componenets+Assembly   | Components from LCSC. Detailed breakdown [here](/BOM/BOM_5x5.xlsx)       | $52.74 |   $13.55 |
 | PCB   | PCB  from JLC                                                                         | $2.00  |  $13.24  |
 | **Sub Total** |                                                                               | $54.74 |  $26.79  |
 | **Total**     |                                                                               | $81.53 |          |
 | **Total with discount(-$31.74)**     |                                                                 | $49.79 |          |
 
-Full breakdown of the bom [here](/BOM.csv.xlsx)
+Full breakdown of the bom [here](/BOM.csv)
 
 <img src="images/Screenshot 2026-11-18 170406.png" alt="price" width="240">
 
